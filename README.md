@@ -4,4 +4,4 @@
   </a>
 </p>
 
-[boot.dev]("https://www.boot.dev?bannerlord=divyanshuio")
+[boot.dev](https://www.boot.dev?bannerlord=divyanshuio)
